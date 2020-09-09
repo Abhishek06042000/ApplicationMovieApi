@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_small">@dimen/_3sdp</dimen>
+    <dimen name="dimen_smaller">@dimen/_1sdp</dimen>
+    <dimen name="dimen_medium">@dimen/_5sdp</dimen>
+    <dimen name="dimen_large">@dimen/_12sdp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="corner_radius">@dimen/_1sdp</dimen>
+    <dimen name="appbar_dimen">@dimen/_200sdp</dimen>
+    <dimen name="dimen_big">@dimen/_16sdp</dimen>
+    <dimen name="title_text">@dimen/_16sdp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TheMovieAPIWork</string>
+    <string name="content_description">movie posters</string>
+    <string name="backdrop_desc">backdrop image</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="movie_data_unavailable">Movie Data Unavailable</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="favorite">favorites</string>
+    <string name="sort_by">sort by</string>
+    <string name="tempdata">TempData</string>
+    <string name="some_content">some content</string>
+    <string name="video_thumbnail">video thumbnail</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="favorites">Favorites</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="refresh">refresh</string>
+    <string name="double_press_back">Please press back again to exit</string>
+
+</resources>
